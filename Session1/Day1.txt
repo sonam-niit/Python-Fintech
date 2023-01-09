@@ -1,0 +1,193 @@
+First of all let's install python
+-----------------------------------------
+after installation check python version
+
+>py -V
+
+python will also provide pip with itself using that you can install packages of python.
+
+let's check pip version too.
+>pip -V
+
+If you are getting both the versions means python installed successfully in your system.
+
+How to Work with Python.
+
+if you search you will get python app directly so you can double click on that and start python interpreter to run your commands.
+
+if you want to open python in cmd then
+
+type
+>py 
+
+and you will be inside the python interpreter.
+
+>>> print("Hello World")
+check output
+>>>print(20+40)
+check output
+
+type exit() to exit from python interpreter.
+
+___________________________________________________________________________
+
+Let's create first program using python
+
+open notepad and add below mentioned code
+
+print("Hello World");
+print("Welcome Sonam Soni")
+print("Bye Bye")
+
+save it at some perticular location with some name and .py extention (first.py)
+
+move to that folder where you have saved your file now in file url type cmd and press enter.
+
+you will be able to open that folder from cmd
+
+once you are in that folder execute below command
+>py first.py
+
+(check the output)
+_______________________________________________________________________________________________
+
+IDE(integrated Develpment Environment)
+
+it provides some direct features to work with any programming language like create project, open project, run project.
+
+Let's install jupyter notebook
+
+open cmd and type 
+>pip install jupyter
+
+once it is installed open any perticular project folder where you want to store all your projects.
+type below command
+>jupyter notebook
+
+you will be able to open localhost:8888 in browser where you can see jupyter notebook.
+
+click on new to create new python script and click on file to rename the same. click on save to save all your steps which you have executed.
+
+Comments: non executed codes are called as comments.
+	--> with the help of comments you can made your code more redable
+	--> developers can understand your code.
+
+	--> comments you can add by just adding a # symbol before the line which you want to add.
+
+
+Datatypes
+-----------------
+
+"Hello World" -- String (str)
+ 10   -- number (whole number) (int)
+ 20.5 -- fractional (decimal number) (float)
+
+ 1i+2j -- complex number (complex)
+ ["a","b","c"] --> list
+ ("a","b","c") --> tuple
+ range(4) -- range
+
+ {"name":"sonam","email":"sonam@gmail.com"} ==> key value pair (dict) --> dictionary
+
+ {"a","b","c"}  --> set
+
+ frozenset({"a","b","c"} ) --> frozenset
+
+ true/false --> boolean (bool)
+
+ b"hello" --> binary (bytes)
+
+ None --> Nonetype
+______________________________________________________________________________
+
+Logical Opeartors
+
+or and operators used to combine 2 or more conditions.
+
+(a>b) and (a>c) --> and says if both the conditions are true then only returns true.
+
+(a>b) or (a>c) --> or says if any one of the condition is true then also returns true.
+
+Practice Task
+--------------------
+1. WAP to print addition of 3 numbers.
+2. WAP to print Average of 3 numbers.
+3. WAP to print area and perimeter of square.
+	Area= side *side
+	
+4. WAP to print circumference and Area of circle.
+5. WAP to calculate Simple Intrest(I= PRN/100)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
