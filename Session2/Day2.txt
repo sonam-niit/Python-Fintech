@@ -1,0 +1,80 @@
+Task for conditional logic
+-----------------------------------
+1. WAP to check wether the given number is even or odd.
+2. WAP to check the given character is vowel or not.
+3. WAP to print the grade based on the percentage
+
+	per between 70-100 --> distinction
+	per between 60- 69 --> first class
+		    50- 59 --> second class
+                    35 - 49 --> pass class
+		    0 - 34  --> Fail
+
+4. WAP to check the user is valid for vote or not.
+5. WAP to find largest number from 3 numbers but using logical operator (no nested if)
+***********************************************************************************************
+
+Task related to Loops
+-------------------------------
+1. WAP to print first 50 even numbers
+2. WAP to display table of some number given by user.
+3. WAP to create list of data , print them using for loop
+
+Functions
+-----------------------------------------------
+method
+
+--> set of limited instruction which is written to perform certain task.
+
+we can create function using def keyword.
+
+def welcome():
+	print("Welcome to the workd of Python function")
+
+welcome() # calling a function
+
+--> write some functions who can accept parameters
+--> function who can return some values.
+
+Tasks
+----------
+1. WAP to create a simple arithmetic calculator 
+	write methods for addition, subtraction, multiplication and divison
+
+	then ask user to enter 2 numbers and one operator.
+
+	if user enter 1 in operator --> then do addition (call add function)
+		enter 2 in operator --> then do subtraction.
+
+2. Write a program to create functions which will return square and cube of given number.
+
+_____________________________________________________________________________________
+
+OOPs task
+
+1. create a class called Student, set some properties (rollNo,name,email, phone)
+
+	create some students object and print
+
+	also create one method print student name and email in uppercase
+
+	call that method to check the same.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
