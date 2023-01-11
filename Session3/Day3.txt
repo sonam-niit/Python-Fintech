@@ -1,0 +1,59 @@
+Polymorphism
+--------------------------
+
+poly- many
+morph - forms
+
+same functionality can work in diffrent way.
+
+function available in python--> len()
+
+same function we can use to calculate the length of characters, calculate the no of items in list, calculate the no keys is dictionary.
+
+Another way to use polymorphism is using Inheritance.
+
+Inherit the functionality but we want to change the implementation.
+
+if the child is having its own method, though parent is having the same method them child will override the parent method and call its own method. (Method overriding- Dynamic polymorphism)
+
+Encaptulation
+--------------------
+Hiding the variables (properties of a class) from direct access
+
+if outside of class you want to access them them wrap them in some method and use it.
+
+How to hide?
+
+we can make our class members as following:
+	Public members: Access from Everywhere
+	Private Members: access from its class only, not from other class, not from outside claaes
+	Protected members:access from same class and its child class only.
+
+
+Task:
+-----------
+1. WAP to create class of Bank and 2 child class like HDFC and ICICI Bank
+
+put some common functionality in bank class 
+
+add some diffrent functionality in their child class and try to create objects of child class and call the methods.
+
+2. Create one list and try to apply some diffrent operations on a list
+
+	add elements
+	update elements
+	delete elements
+	clear list
+	delete list
+
+
+
+
+
+
+
+
+
+
+
+
