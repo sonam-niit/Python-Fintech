@@ -1,0 +1,19 @@
+List Methods
+--------------------------
+1. append() --> add item at the end of the list
+2. extend() --> add one list items to another list
+3. insert() --> add item at desired position
+4. remove() --> remove perticular index item from a list
+5. pop() --> remove the last element by default, if you want to remove some index element then pass index number in pop method
+6. clear() -- remove all items from the list.
+7. sort() -- sort the object of list
+8. count() -- get the numbers of counts for perticular elements occured in a list
+9.reverse() - reverse the list items
+10. copy() - copy the list
+
+Built in functions
+-----------------------------
+1. len -- get the size of list
+2. max -- max item
+3. min -- get the item with minimum  value
+4. sum -- sum of all elements
